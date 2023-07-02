@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.currency-dropdown {
+    background-color: lightgreen;
+    position: absolute;
+}
+
+.increase-plus {
+
+    color: white;  
+    font-size: large;
+    background-color: green;
+    background-position: center;
+    background-size: auto;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.decrease-minus {
+    color: white;  
+    font-size: large;
+    background-color: red;
+    background-position: center;
+    display: inline-block;
+    border-radius: 50%;
+}
